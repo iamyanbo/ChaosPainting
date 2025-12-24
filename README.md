@@ -83,7 +83,7 @@ PointPillars performs better for **Cars (+7% vs SECOND)**.
 
 ### Environment
 *   **Framework**: OpenPCDet v0.5+
-*   **Hardware**: Trained on NVIDIA RTX 3060 Ti / RTX 4070.
+*   **Hardware**: Trained on NVIDIA RTX 3060 Ti.
 
 ### Reproduction
 Data generation and training can be executed via the provided scripts:
